@@ -18,7 +18,7 @@ The best test set accuracy achieved is 85.6%, while the dev set accuracy stands 
 
 ## TODO
 
-* Add model evaluation metrics and visualizations
+~~* Add model evaluation metrics and visualizations~~
 * Add one-hot encoding of categorical features
 * Add and test using remaining tree-based methods- XGBoost, CatBoost
 * Add non-tree ML models such as Naïve-Bayes, SVM etc.- to be tested on encoded dataset
